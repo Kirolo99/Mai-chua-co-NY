@@ -27,7 +27,7 @@ function firstQuestion(){
         imageUrl: 'img/mai.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/cute.jpg")',
+        background: '#fff url("img/bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
